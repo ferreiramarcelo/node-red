@@ -45,7 +45,7 @@
         "jsonata":"1.8.4",
         "media-typer": "0.3.0",
         "mqtt": "2.18.8",
-        "mustache": "2.3.0",
+        "mustache": "4.1.0",
         "nopt": "3.0.6",
         "oauth2orize":"1.7.0",
         "on-headers":"1.0.1",
