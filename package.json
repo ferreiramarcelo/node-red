@@ -42,7 +42,7 @@
         "is-utf8":"0.2.1",
         "js-yaml": "3.14.1",
         "json-stringify-safe":"5.0.1",
-        "jsonata":"1.8.4",
+        "jsonata":"1.8.7",
         "media-typer": "0.3.0",
         "mqtt": "2.18.8",
         "mustache": "2.3.0",
